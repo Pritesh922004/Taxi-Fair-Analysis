@@ -2,7 +2,7 @@
 
 An end-to-end, multi-page **Power BI** dashboard that analyses **150,000 ride bookings from 2024** to understand booking performance, revenue drivers, cancellations, vehicle-wise performance and customer/driver satisfaction.
 
-![Summary Dashboard](screenshots/06-summary.png)
+![Summary Dashboard](Summary.png)
 
 ---
 
