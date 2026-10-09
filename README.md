@@ -129,7 +129,7 @@ Daily ride distance and booking value by payment method, with a booking-level dr
 ### 4️⃣ Cancellation – Why Rides Fail
 Cancellation counts and reasons, split by customer and driver.
 
-![Cancellation](Cancellation.png)
+![Cancellation](Cancelletion.png)
 
 - About **25%** of all bookings end in a cancellation
 - Customer reasons include AC not working, change of plans, driver asked to cancel, driver not moving and wrong address
